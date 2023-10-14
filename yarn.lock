@@ -1542,12 +1542,10 @@
     pkg-dir "^5.0.0"
     pluralize "^8.0.0"
 
-"@shopify/network@^1.5.1":
-  version "1.5.1"
-  resolved "https://registry.npmjs.org/@shopify/network/-/network-1.5.1.tgz"
-  integrity sha512-WKefTyiBB/zb5gXlG7BYWM57pynM9bnFCcbiT4w8rjEP1Aoo9tAjFC+xrTzv85LiK1r9ZBWirQNr33Mv4tZg0Q==
-  dependencies:
-    tslib "^1.14.1"
+"@shopify/network@^1.6.4":
+  version "1.6.4"
+  resolved "https://registry.yarnpkg.com/@shopify/network/-/network-1.6.4.tgz#fdfa8379cb6e06f05ee63d24aafcd6f8e275cb34"
+  integrity sha512-V+//Et386LnYdtNhQ3e33AKYfU25XEt8H5XYeMqPvJZpVvC9Z1lHKQMpmM/zq13VXjPUjt9/sNxHxMP3I6cbJg==
 
 "@shopify/prettier-config@^1.1.2":
   version "1.1.2"
@@ -6395,7 +6393,7 @@ tsconfig-paths@^3.14.1:
     minimist "^1.2.6"
     strip-bom "^3.0.0"
 
-tslib@^1.14.1, tslib@^1.8.1:
+tslib@^1.8.1:
   version "1.14.1"
   resolved "https://registry.npmjs.org/tslib/-/tslib-1.14.1.tgz"
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
